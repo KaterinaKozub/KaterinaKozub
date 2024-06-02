@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 # BIO
-Katya, 20 y.o.\
-Ukraine, Odesa.\
-I study at the National University "Odessa Polytechnic" 
+My name is Katya, I'm 20 years old.
+📍 I'm from Odesa, Ukraine.
+🎓 I study at the National University "Odessa Polytechnic".
