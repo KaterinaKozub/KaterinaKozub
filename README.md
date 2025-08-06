@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # BIO
-My name is Katya, I'm 20 years old.\
+My name is Katya, I'm 21 years old.\
 📍 I'm from Odesa, Ukraine.\
 🎓 I have completed my Bachelor's degree at the National University "Odessa Polytechnic".\
 🌟 In my free time, I love reading, traveling, and painting.\
